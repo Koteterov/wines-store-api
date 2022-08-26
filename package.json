@@ -1,0 +1,21 @@
+{
+  "name": "wines-store-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koteterov/wines-store-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koteterov/wines-store-api/issues"
+  },
+  "homepage": "https://github.com/Koteterov/wines-store-api#readme"
+}
